@@ -54,22 +54,22 @@ This project analyzes an e-commerce dataset (200+ records) to uncover customer p
 ---
 
 ## Machine Learning Model
-- Model Used: Linear Regression
+- Model Used: Random Forest Regression
 - Features: Price, Quantity
 - Target: Total_Sales
 
 ---
 
 ## Model Evaluation
-- R² Score: 0.57 (approx)
-- Mean Absolute Error (MAE): ~18,000
-- Mean Squared Error (MSE): High due to squared values
+- R² Score: 0. (87approx)
+- Mean Absolute Error (MAE): ~5504
+- Mean Squared Error (MSE): 175370451 (High due to squared values)
 
 ---
 
 ## Key Insights
 - Electronics category generated the highest revenue
-- Laptops and phones are top-selling products
+- T-shirt, Bags and Shoes are top-selling products
 - Metro cities contributed the most sales
 - Strong relationship between price, quantity, and total sales
 
